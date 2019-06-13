@@ -1,2 +1,2 @@
-# Smart-Brain-Back-End
-Smart-Brain Backend Part
+# Smart-Brain
+Smart Brain App Front-End
